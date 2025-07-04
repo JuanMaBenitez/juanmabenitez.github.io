@@ -1,0 +1,166 @@
+{
+  "name": "Juan Manuel Benitez",
+  "label": "Electrical Engineer",
+  "image_path": "portfolio_media/profile.jpg",
+  "contact": {
+    "email": "Juanmbenitez.py@gmail.com",
+    "phone": "+595-976-545455",
+    "location": "Ciudad del Este, Paraguay"
+  },
+"summary": "I'm an English-Spanish medical interpreter with over 3 years of experience helping people understand each other in high-pressure situations, which has sharpened my communication and problem-solving skills. I have a bachelor's degree in Electrical Engineering, experience with Python programming, AutoCAD, data analysis, PLC automation, Excel, Power BI, and more along the way.\n\nLately, I've been expanding my tech skills even further through courses like Python programming, Advanced Excel, and Web Development. I love learning new tools and solving technical challenges, and I'm excited to bring both my technical mindset and my strong communication skills into a future role in IT, customer service, tech support, or data analysis.",
+  "social_links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/juan-manuel-benitez",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/juan.manb",
+      "svg_path": "img/instagram.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/JuanMaBenitez",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "LSA (Language Services Associates), ",
+      "position": "Medical Interpreter",
+      "url": "https://lsa.inc/",
+      "start_date": "2024",
+      "end_date": "Present",
+      "summary": "Freelance work",
+      "highlights": [
+        "Consecutive interpreter for medical appointments, legal calls, and other situations requiring clear communication between English and Spanish speakers.",
+        "Helped patients understand medical procedures, diagnoses, and treatment plans, ensuring they felt comfortable and informed.",
+        "Confidently handled high-pressure situations, including emergency calls and complex medical terminology."
+      ]
+    },
+    {
+      "company": "Propio Language Services and Technology Solutions",
+      "position": "Medical Interpreter and Customer Service interpreter",
+      "url": "https://propio.com/",
+      "start_date": "2024",
+      "end_date": "Present",
+      "summary": "Freelance work",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Verbatum",
+      "position": "Medical Interpreter",
+      "url": "https://www.verbatum.org/",
+      "start_date": "2025",
+      "end_date": "Present",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Voyce Inc",
+      "position": "Medical Interpreter",
+      "url": "https://web.voyceglobal.com/",
+      "start_date": "2024",
+      "end_date": "2025",
+      "summary": "",
+      "highlights": [
+      ]
+    }
+    ,
+    {
+      "company": "Epicus Corporate/Teleperformance",
+      "position": "Medical Interpreter",
+      "url": "",
+      "start_date": "2022",
+      "end_date": "2024",
+      "summary": "",
+      "highlights": [
+      ]
+    }
+    ,
+    {
+      "company": "Universidad Privada del Este Hernandarias Campus",
+      "position": "Teacher",
+      "url": "https://upe.edu.py/",
+      "start_date": "2023",
+      "end_date": "2023",
+      "summary": "",
+      "highlights": [      
+        "Taught Electrical Circuits and Electrical Measurements and Instruments",
+        "Created lesson plans and assignments to help students understand complex electrical concepts",
+        "Assisted students with virtual labs and practical applications of electrical engineering principles"
+      ]
+    }
+
+  ],
+  "projects": [
+    {
+      "title": "Autocad Electrical Drawings",
+      "summary": "Electrical drawings created using AutoCAD, including schematics, wiring diagrams, and panel layouts.",
+      "url": "",
+      "highlights": [],
+      "images": [
+        {
+          "img_path": "portfolio_media/yt1.jpg",
+          "caption": "Electrical Drawings in AutoCAD"
+        },
+        {
+          "img_path": "portfolio_media/yt2.jpg",
+          "caption": "Panel Layouts"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Nacional del Este (UNE)",
+      "location": "Ciudad del Este, Paraguay",
+      "url": "https://www.une.edu.py/",
+      "degrees": [
+        "Bachelor of Science in Electrical Engineering with Emphasis in Industrial Systems",
+        "Specialization in University Didactics"
+      ],
+      "honors": [
+      ],
+      "gpa_major": "3.93",
+      "graduation_date": "2019"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Excel, Powerpoint, Word",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "Python, C++, AutoCAD",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "PLC Programming (Siemens, Allen Bradley)",
+      "proficiency": 75,
+      "proficiency_label": "Comfortable"
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Intermediate"
+    }
+  ],
+  "references": [
+  ]
+}
